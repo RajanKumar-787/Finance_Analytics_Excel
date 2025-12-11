@@ -1,4 +1,4 @@
-# Finance Analytics Excel
+# Finance Analytics
 
 This project is part of the Codebasics Data Analytics Bootcamp, where I used Excel to analyze the P&L statements and deliver actionable insights through dynamic and interactive reports.
 
